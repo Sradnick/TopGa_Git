@@ -1,7 +1,7 @@
 library("mixexp")
 
 
- #DESIGN2
+ #DESIGN for fist experiment
  #a=Greencompost
  #b=fibercompost
  #c=Fiber roh
